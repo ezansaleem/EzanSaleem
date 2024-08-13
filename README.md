@@ -1,7 +1,7 @@
 ### Introduction 
 
 
-Hello! My name is Ezan Saleem, and I am a web developer with a strong background in HTML, CSS, Bootstrap, JavaScript, and C#(DotNet). I am also skilled in bug fixing and have a Bachelor of Science degree in Computer Science from the Lahore Garrison University.
+Hello! My name is Ezan Saleem, and I am a web developer with a strong background in HTML, CSS, Bootstrap, JavaScript, and C#(DotNet). I am also skilled in bug fixing and have a Bachelor of Science degree in Computer Science.
 
 ### Skills
 Here are the primary skills that I possess:
