@@ -1,19 +1,98 @@
-### Introduction 
+## 👋 Hi, I'm **Ezan Saleem**
 
+I'm a **Software Engineer** passionate about building scalable backend
+systems and interactive front-end experiences. I specialize in **.NET
+Core**, **ASP.NET Web APIs**, and **React.js**, with hands-on experience
+in the **blockchain**, **insurance**, and **fintech** domains.
 
-Hello! My name is Ezan Saleem, and I am a web developer with a strong background in HTML, CSS, Bootstrap, JavaScript, and C#(DotNet). I am also skilled in bug fixing and have a Bachelor of Science degree in Computer Science.
+------------------------------------------------------------------------
 
-### Skills
-Here are the primary skills that I possess:
+### 💼 **Professional Summary**
 
-HTML: I have a deep understanding of HTML and can create well-structured and semantically correct markup for web pages.
+With over **3 years of professional experience**, I've contributed to
+full-stack projects across multiple industries --- from developing
+high-performance APIs for crypto trading and investment platforms to
+designing robust insurance management systems.\
+I love solving complex problems, optimizing systems, and working with
+data-driven applications.
 
-CSS: I am proficient in CSS and can design and style web pages to create visually appealing and user-friendly interfaces.
+------------------------------------------------------------------------
 
-Bootstrap: I have experience working with Bootstrap, a popular front-end framework, and can utilize its components and grid system to create responsive and mobile-friendly websites.
+### ⚙️ **Technical Skills**
 
-JavaScript: I am familiar with JavaScript and can use it to enhance the functionality and interactivity of web pages. I have a good understanding of DOM manipulation, event handling, and AJAX.
+**Languages:**\
+C#, JavaScript, HTML, CSS
 
-### Social Link
+**Frameworks & Libraries:**\
+.NET Core, ASP.NET MVC, React.js, Bootstrap
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://pk.linkedin.com/in/ezansaleem/)
+**Databases:**\
+MSSQL, MySQL, PostgreSQL, MongoDB, Redis
+
+**Integrations & APIs:**\
+Open AI, Gemini, Binance, OKX, Paybis, SumSub, Telegram, Discord, Dune Analytics
+
+**Other Tools & Technologies:**\
+Docker, Git, OCR Technologies, WordPress, Wix, Shopify
+
+**Soft Skills:**\
+Problem-Solving • Teamwork • Adaptability • Communication
+
+------------------------------------------------------------------------
+
+### 🚀 **Recent Work Highlights**
+
+#### 🏢 **Software Engineer -- Code District (Jun 2025 -- Present)**
+
+-   Developing and maintaining **ASP.NET Core Web APIs** for insurance
+    claim and policy management.\
+-   Optimizing **MS SQL** databases for high-volume transactions.\
+-   Building **React dashboards** to enhance user experience and
+    visualize claim data.
+
+#### 💻 **Software Engineer -- Zech Technologies (Oct 2023 -- Jun 2025)**
+
+-   Designed scalable APIs and services for **crypto trading**
+    platforms.\
+-   Built a **Halal Crypto Investment Platform** with live share pricing
+    and portfolio tracking.\
+-   Integrated third-party APIs for **KYC**, **credit card payments**,
+    and **crypto swaps**.\
+-   Improved API performance through **caching**, **rate-limiting**, and
+    **memory optimization**.
+
+#### 🧩 **Associate Software Engineer -- DukanLay Solutions (Mar 2023 -- Sep 2023)**
+
+-   Built responsive front-ends using **React**, **HTML**, and **CSS**.\
+-   Integrated **OCR solutions** for banking transaction digitization.\
+-   Developed dual web apps for financial management using iframes and
+    APIs.
+
+------------------------------------------------------------------------
+
+### 🎓 **Education**
+
+**Bachelor of Science in Computer Science**\
+*Lahore Garrison University (2018 -- 2022)*
+
+------------------------------------------------------------------------
+
+### 🏅 **Certifications & Awards**
+
+-   **Artificial Intelligence Certification** -- Al Khwarizmi Institute
+    of Computer Science (KICS), UET Lahore (2021)\
+-   **Amal Academy Graduate** -- Stanford-funded soft skills and career
+    training program
+
+------------------------------------------------------------------------
+
+### 💬 **Interests**
+
+**Blockchain • Artificial Intelligence • Sports**
+
+------------------------------------------------------------------------
+
+### 🌐 **Connect with Me**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://pk.linkedin.com/in/ezansaleem)\
+📧 **Email:** <exansaleem@gmail.com>
